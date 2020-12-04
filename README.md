@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I am Sunil 👋
 
 <!--
 **sunilsm7/sunilsm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Sunil, Software Engineer. I help businesses and start-ups with building out efficient web applications using mainly Django & JavaScript.
+
+I’m a big lover of everything back-end and python related. Also working on RPA technologies like Uipath, Automation anywhere.
+
+#### Skills
+- **Front-end:** JavaScript, HTML
+- **Back-end:** Python, Django, Flask, PostgreSQL
+- **RPA:** UiPath, Automation Anywhere
+- **Cloud:** AWS, GCP
+- **Dev-Ops:** Docker
+- **Other:** Linux
+
+
+few current stuffs:
+
+- 🔭 I’m currently working on RPA Automation using UiPath.
+- 🌱 I’m currently learning Jenkins and CI/CD pipelines
