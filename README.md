@@ -1,8 +1,5 @@
 ### Hi, I am Sunil 👋
 
-<!--
-**sunilsm7/sunilsm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### About me
 
 I am Sunil, Software Engineer. I help businesses and start-ups with building out efficient web applications using mainly Django & JavaScript.
